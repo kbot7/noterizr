@@ -27,3 +27,5 @@ Ideally, the digital journal is only available when physical hardware key is plu
 
 
 
+Use C# records instead of classes wherever possible.
+
