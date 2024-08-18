@@ -23,6 +23,7 @@ Question for self:
 - Can I utilize hardware keys and/or PassKey infrastructure for encryption? Perhaps for viewing?
 - Can client devices directly access hardware keys?
 
+Ideally, the digital journal is only available when physical hardware key is plugged in.
 
 
 
