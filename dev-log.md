@@ -3,7 +3,7 @@ Instructions: Start each log with ISO8601 date time on a new line with content i
 
 
 2024-08-18 00:26
-A note is a document. Therefore, I should approach this as a document database problem. 
+A note is a document. Therefore, I should approach this as a document database problem. Perhaps use a standard like BSON for document storage. See https://bsonspec.org/spec.html 
 
 Consider using actual files in directories. Consider pros and cons.
 Also consider a file-based database, which would be better for encryption.
