@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+
+option csharp_namespace = "Noterizr";
+package note;
+
+message Note {
+    google.protobuf.Timestamp created = 1;
+    google.protobuf.Timestamp modified = 2;
+    google.protobuf.StringValue content = 3;
+}
+
